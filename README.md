@@ -1,8 +1,5 @@
 # Edge-Biometric-Perception-Service
 This repository contains an edge-focused biometric perception service example.
-**Summary:**
-- **Role alignment:** Senior Software Engineer / Cloud Architect focusing on AWS, Azure, Kubernetes, and event-driven architectures.
-- **Primary focus:** Real-time/near-real-time biometric feature extraction at the edge, containerized workloads, and event-driven processing pipelines.
 
 **Technologies & Patterns:**
 - Cloud: AWS (EKS, Lambda, SQS/SNS, Kinesis), Azure (AKS, Functions, Event Grid, Service Bus)
